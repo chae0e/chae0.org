@@ -3,4 +3,13 @@ body {
 	font-size: 24px;
   color: blue;
   background-image: url("../img/chae0_webpage_bg.webp");
+  padding-left: 5%;
+}
+
+h1, h2, h3, h4 {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+div{
+  background-color: rgba(255, 255, 255, 0.9);
 }
